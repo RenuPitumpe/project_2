@@ -1,6 +1,6 @@
 # Project 2
 
-## Croud funding database schema
+## Crowd funding database schema
 
 ![Croud funding database schema](/source/crowdfunding_db_schema.png)
 
